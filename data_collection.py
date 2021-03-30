@@ -10,6 +10,6 @@ import pandas as pd
 
 path = "D:/chromedriver_win32/chromedriver"
 
-df = gs.get_jobs("data_scientist", 15, False, path, 15)
+df = gs.get_jobs("data_scientist", 100, False, path, 5)
 
 df.to_csv('glassdoor_jobs.csv', index = False)

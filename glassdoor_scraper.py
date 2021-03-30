@@ -153,7 +153,8 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
                 time.sleep(1)
                 try:
                     # driver.find_element_by_xpath('.//div[@class="tab" and @data-tab-type="overview"]').click()
-                    driver.find_element_by_xpath('.//div[@id="SerpFixedHeader"]//span[text()="Company"]').click()
+                    # driver.find_element_by_xpath('.//div[@id="SerpFixedHeader"]//span[text()="Company"]').click()
+                    driver.find_element_by_xpath('.//div[@data-tab-type="overview"]//span[text()="Company"]').click()
     
                 #     try:
                 #         #<div class="infoEntity">

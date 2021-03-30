@@ -1,37 +1,1044 @@
 Job Title,Salary Estimate,Job Function,Job Description,Company Name,Rating,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,min_salary,max_salary,avg_salary,job_state,company_age,python_jd,r,aws,spark,excel
-"Associate Scientist, R",$35K - $81K (Glassdoor est.),Research Scientist,"Areas of Responsibility:
-This position requires a driven individual to work closely with members of the research and development group to assist in the preparation and evaluation of novel solid supports, phosphoramidites, fluorescent dyes and/or linkers to enable new approaches to biology research. This is a hands-on research position.",LGC Limited,3.5,"Petaluma, CA",1001 to 5000 Employees,1842.0,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,35,81,58.0, CA,179.0,0,0,0,0,0
-,$34K - $75K (Glassdoor est.),Research Scientist,"New product development of broths, stocks, flavors, animal fats and functional collagen products; lead and conduct pilot plant and production plant trials; support operations with technical expertise to improve quality / reduce cost of existing products; collaborate and provide technical support to internal cross functional groups and external customers; propose and identify new technological opportunities.
-JOB QUALIFICATIONS:
-Education and Experience:
-Bachelor of Science degree plus a minimum of 4 years of experience
-Master of Science plus 2 years of experience",The Lauridsen Group,2.8,"Ankeny, IA",501 to 1000 Employees,1969.0,Company - Public,Miscellaneous Manufacturing,Manufacturing,Unknown / Non-Applicable,34,75,54.5, IA,52.0,0,0,0,0,0
+Data Scientist II,$80K - $130K (Glassdoor est.),Data Scientist,"Freeport-McMoRan is a leading international mining company with headquarters in Phoenix, Arizona. We operate large, long-lived, geographically diverse assets with significant proven and probable reserves of copper, gold, and molybdenum. The company has a dynamic portfolio of operating, expansion and growth projects in the copper industry. Freeport-McMoRan is one of the world’s largest publicly traded copper producers, the world’s largest producer of molybdenum and a significant gold producer. We have a long and successful history of conducting our business in a safe, highly efficient and socially-responsible manner.
+
+We have the assets, the talent, the drive and the financial strength to provide attractive and rewarding careers of our employees. We encourage you to take the time to explore the opportunity to advance your career at Freeport-McMoRan.
+Description",Freeport McMoRan,4.0,"Phoenix, AZ",10000+ Employees,-1,Company - Public,Mining,Mining & Metals,$10+ billion (USD),80,130,105.0, AZ,-1,0,0,0,0,0
+Research Data Scientist,$72K - $120K (Glassdoor est.),Data Scientist,"IAI is looking for a talented research scientist to contribute to research and development efforts in machine learning, graph theory, and scientific software development. The candidate will incorporate novel ideas and improve the state of the art on advanced projects related to processing of large networks, analyzing data in high dimensions and implementing high performance computing software. Additionally, the candidate will develop a portfolio of related research by extending existing work and proposing new methods with novel application domains.
+
+You are highly encouraged to apply if you enjoy working with data and algorithms, passionate about understanding how things work, want to solve complex problems and strive to stay current on the technology and literature in areas of high performance computing, network analysis and machine learning.",Intelligent Automation,3.7,"Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),72,120,96.0, MD,34,0,0,0,0,0
+Principal Data Scientist,$104K - $170K (Glassdoor est.),Data Scientist,"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
+Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value",GEICO,3.5,"Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),104,170,137.0, MD,85,0,0,0,0,0
+Machine Learning Engineer,$64K - $116K (Glassdoor est.),Machine Learning Engineer,"We are engineers, high line workers, power plant managers, accountants, electricians, project coordinators, risk analysts, customer service operators, community representatives, safety and security specialists, communicators, human resources partners, information technology technicians and much, much more. We are 3,300 people committed to enhancing the lives of the communities we serve. Together, we are powering the growth and success of our community progress every day!
+
+Grade: 14, 15, 16
+
+Qualifications may warrant placement in a different job level.",CPS Energy,3.7,"San Antonio, TX",1001 to 5000 Employees,1942,Self-employed,Energy,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),64,116,90.0, TX,79,0,0,0,0,0
+Data Science Specialist,$80K - $128K (Glassdoor est.),Data Scientist,"Eaton Corporation is currently seeking a Data Science Specialist to join our team. This position can be based at our Moon Township PA, Menomonee Falls WI, Southfield MI, Cleveland OH or Raleigh NC facility. Relocation assistance will be provided if needed.
+
+The Data Science Specialist will be directly involved in the application of statistics, machine learning, and analytic approaches to answer challenging business questions. This work will help businesses across the enterprise solve critical business problems, uncover new business opportunities, and turn their large volumes of data into valuable, actionable insights.
+
+Making what matters work at Eaton takes the passion of every employee around the world. We create an environment where creativity, invention and discovery become reality, each and every day. It’s where bold, bright professionals like you can reach your full potential—and where you can help us reach ours.",Eaton,3.9,"Raleigh, NC",,1911,Unknown,Electrical & Electronic Manufacturing,Manufacturing,,80,128,104.0, NC,110,0,0,0,0,0
 Data Scientist,$125K - $154K (Glassdoor est.),Data Scientist,"Are you passionate about using data, finding insights, and trying to explain why things are what they are? If so, read on.
 
 As part of the advanced analytics team, the Data Scientist will be a key player on an innovative team that develops and provides actionable insights across the organization. S/he will help to evolve existing forecasting methodologies across different parts of the organization and develop sophisticated models, using machine learning algorithms and advanced analytics. This role will be responsible for developing long and short-term product demand forecasts in multiple markets and across multiple channels to help drive down supply chain costs (freight, inventory levels). The successful individual will conduct multiple tasks and projects simultaneously, maintain strong relationships with stakeholders, and own deliverables end to end.
 
 Essential Functions and Key Responsibilities:
-TaylorMade Golf Company is an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, religious creed, color, national origin or ancestry, physical or mental disability, medical condition, genetic information, marital status, sex, pregnancy, gender, gender identity, gender expression, age, sexual orientation, military and veteran status or any other basis protected by federal, state or local law, ordinance, or regulation.",TaylorMade Golf,4.3,"Carlsbad, CA",1001 to 5000 Employees,1979.0,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),125,154,139.5, CA,42.0,0,0,0,0,0
+TaylorMade Golf Company is an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, religious creed, color, national origin or ancestry, physical or mental disability, medical condition, genetic information, marital status, sex, pregnancy, gender, gender identity, gender expression, age, sexual orientation, military and veteran status or any other basis protected by federal, state or local law, ordinance, or regulation.",TaylorMade Golf,4.3,"Carlsbad, CA",1001 to 5000 Employees,1979,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),125,154,139.5, CA,42,0,0,0,0,0
+Data Scientist III,$103K - $164K (Glassdoor est.),Data Scientist,"Freeport-McMoRan is a leading international mining company with headquarters in Phoenix, Arizona. We operate large, long-lived, geographically diverse assets with significant proven and probable reserves of copper, gold, and molybdenum. The company has a dynamic portfolio of operating, expansion and growth projects in the copper industry. Freeport-McMoRan is one of the world’s largest publicly traded copper producers, the world’s largest producer of molybdenum and a significant gold producer. We have a long and successful history of conducting our business in a safe, highly efficient and socially-responsible manner.
+
+We have the assets, the talent, the drive and the financial strength to provide attractive and rewarding careers of our employees. We encourage you to take the time to explore the opportunity to advance your career at Freeport-McMoRan.
+Description",Freeport McMoRan,4.0,"Phoenix, AZ",10000+ Employees,-1,Company - Public,Mining,Mining & Metals,$10+ billion (USD),103,164,133.5, AZ,-1,0,0,0,0,0
+Data & Analytics Consultant,$81K - $123K (Glassdoor est.),Analytics Consultant,"WHO WE LOOK FOR
+
+An SEI Consultant is a master communicator and active listener who understands how to navigate an audience. Self-aware, almost to a fault, SEI consultants keenly understand how to adjust their approach based on the situation. Following a logical, fact-based approach, our consultants possess the superior ability to see correlations others may not, ask the right questions and drive solutions.
+
+As super-connectors, our consultants connect not only people, but data, trends and experiences. Mature, humble, and genuine, SEI Consultants frequently go above and beyond for both their clients and their colleagues. SEI Consultants are ethical and trustworthy individuals who do what they say. SEI Consultants have an insatiable curiosity and love to learn. These individuals are commonly tech savvy and early adopters. Their passion for learning is infectious and excites others.
+
+As every project is different, an SEI Consultant must be with unexpected situations. An SEI Consultant must be at ease with ambiguity because although a client knows that a problem exists – they need SEI to figure it out and drive a solution. SEI Consultants define ambition differently. SEI Consultants are who like to hang out with colleagues outside of work. Whether it be cooking, traveling, hiking, or volunteering, SEI Consultants enjoy working with genuine, thoughtful folks who want to steer clear of the traditional grind and share the joy of day-to-day life and activities with colleagues, friends and family.
+
+
+
+Our consultants work with clients at all levels of the organization, from the C-suite to the shop floor, helping them to deliver on their most strategic initiatives. We’re known for making realistic, data-driven decisions that deliver value in tangible ways to our clients. Our clients ask for us on projects that require a superior combination of technical and business capabilities, people and management skills, and a collaborative mindset. We excel in understanding complex programs and strategic initiatives and breaking them into actionable pieces.
+
+We are actively looking for professionals in the following areas:
+The ideal candidate will:
+Ideal candidates may call themselves Data Engineers, Data Scientists and Analysts and Data Governance professionals. Experience may include but is not limited to the following:",SEI,4.6,"Cincinnati, OH",201 to 500 Employees,1992,Company - Private,Consulting,Business Services,$50 to $100 million (USD),81,123,102.0, OH,29,0,0,0,0,1
+Analytics Manager,$52K - $95K (Glassdoor est.),Data Analyst,"Title: Manager, Analytics
+Department: Analytics
+Wage Category: Salaried, Exempt
+Reports to: Director, Analytics
+Salary range: Commensurate with experience
+
+Job Statement
+The Manager of Analytics is responsible for overseeing the design and delivery of reports and insights that analyze business functions, key operations, and performance metrics. This position will lead a team of analysts using data modeling and analysis techniques to discover insights that will guide strategic decisions and uncover optimization opportunities.",MediRevv,2.8,"Coralville, IA",501 to 1000 Employees,2007,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD),52,95,73.5, IA,14,0,0,0,0,0
+Research Scientist I - Essentia,$34K - $75K (Glassdoor est.),Research Scientist,"New product development of broths, stocks, flavors, animal fats and functional collagen products; lead and conduct pilot plant and production plant trials; support operations with technical expertise to improve quality / reduce cost of existing products; collaborate and provide technical support to internal cross functional groups and external customers; propose and identify new technological opportunities.
+JOB QUALIFICATIONS:
+Education and Experience:
+Bachelor of Science degree plus a minimum of 4 years of experience
+Master of Science plus 2 years of experience",The Lauridsen Group,2.8,"Ankeny, IA",501 to 1000 Employees,1969,Company - Public,Miscellaneous Manufacturing,Manufacturing,Unknown / Non-Applicable,34,75,54.5, IA,52,0,0,0,0,0
+"Scientist I, BioPharma Regulatory LBA - $5,000 Sign on Bonus",$33K - $73K (Glassdoor est.),Research Scientist,"KCAS Bioanalytical & Biomarker Services is seeking an individual interested in bioanalysis to work as a Scientist I within its GLP bioanalytical laboratory in Shawnee, Kansas. KCAS is a contract research organization (CRO) providing bioanalytical & biomarker services to pharmaceutical clients in support of drug developments, preclinical and clinical studies.
+
+KCAS offers a full, competitive benefits package including paid time off, health, dental, vision, 401k, and more. Please see the careers page of the KCAS website for a full list of benefits.
+
+This job ad is meant to provide a brief overview of the nature and level of work being performed and does not imply that these are the only duties to be performed.
+
+
+The Scientist I acts as lead scientist for studies, with ability to carry out all aspects from study setup through reporting, as well as development. Utilize a strong base in scientific principles/theory to assess data integrity and troubleshooting.",Kcas Bioanalytical & Biomarker Services,3.7,"Shawnee, KS",51 to 200 Employees,1979,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),33,73,53.0, KS,42,0,0,0,0,0
+Senior Data Scientist,$86K - $137K (Glassdoor est.),Data Scientist,"Working out of our Chevy Chase, MD/Washington DC office, GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Senior Data Scientist, you will serve as a technical and thought leader on this diverse and highly skilled team. You will design and develop inventive solutions to drive innovation and delivery of organizational value. You’ll synthesize large datasets and solve complex problems through the use of advanced machine learning and statistical modeling. You’ll work in a highly collaborative, team environment, guiding and mentoring junior data scientists and collaborating with multiple stakeholders. You will assist management in the communication of insights and the implementation of impactful data science solutions across the organization.",GEICO,3.5,"Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),86,137,111.5, MD,85,0,0,0,0,0
+ASSOCIATE SCIENTIST,$30K - $69K (Glassdoor est.),Research Scientist,"Job Summary
+This position reports to the supervisor for the functional area to which they are assigned and has no direct reports. The Associate Scientist position works closely with other departments, such as Operations, Validations, Product Development, Quality Systems, Product Release and Chemistry to assure the support of the Microbiology department on various projects, studies and routine tasks.
+
+The individual holding the position of Associate Scientist shall be responsible for coordinating the timely completion of routine and project testing. This person will also be responsible for coordinating the timely completion of routine and special finished product testing and environmental issues. They will assist with the training of Production and Quality Control personnel in microbiological tests and methods. Must be available to work overtime as necessary.",Fresenius Kabi,3.7,"Grand Island, NY",10000+ Employees,-1,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD),30,69,49.5, NY,-1,0,0,0,0,0
 Spark/Big Data Engineer,$61K - $110K (Glassdoor est.),Data Engineer,"The Data Consumption team of Data Security & Infrastructure (DSI) is seeking a highly motivated Spark / Big Data Developer to start or continue an IT career on the Big Data Platform project. Teaming up with architects, scrum masters, leads, managers and directors, you will work in an Agile environment to make the data on the Big Data Platform accessible for the needs of the organization through Atomic Models and Analytical Data Stores. In this role, you will coordinate with a variety of IT departments to elicit and translate high level business requirements into detailed system requirements. You will participate in the entire software development lifecycle by writing and executing test plans, finding solutions to issues during development and after deployment. You should be intellectually curious, have a solutions-oriented attitude and enjoy learning new tools and techniques.
 Basic Qualifications:
-5+ years’ experience with Relational Database Systems and SQL",GEICO,3.5,"Chevy Chase, MD",10000+ Employees,1936.0,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),61,110,85.5, MD,85.0,0,0,0,1,0
-Principal Data Scientist,$104K - $170K (Glassdoor est.),Data Scientist,"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
-As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
-Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value",GEICO,3.5,"Chevy Chase, MD",10000+ Employees,1936.0,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),104,170,137.0, MD,85.0,0,0,0,0,0
-Data Engineer,$78K - $145K (Glassdoor est.),Data Engineer,"Numerator is a data and tech company bringing speed and scale to market research. Headquartered in Chicago, IL, Numerator has more than 2,000 employees worldwide. The company blends proprietary data with advanced technology to create unique insights for the market research industry that has been slow to change. The majority of Fortune 100 companies are Numerator clients.
+5+ years’ experience with Relational Database Systems and SQL",GEICO,3.5,"Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),61,110,85.5, MD,85,0,0,0,1,0
+Senior Solutions Engineer (Data Scientist / ML Engineer) - West Coast,$160K - $254K (Glassdoor est.),Data Scientist,"COMPANY OVERVIEW:
+H2O.ai is the open source leader in AI with a mission to democratize AI for everyone. H2O.ai is transforming the use of AI with its visionary machine learning platform. More than 18,000 companies use open-source H2O for mission-critical use cases. H2O Driverless AI uses ""AI to do AI"" in order to provide an easier, faster and more cost-effective means of implementing data science. For more information and to learn more about how H2O.ai is driving an AI Transformation, visit www.h2o.ai.
+
+ABOUT THE ROLE:
+Machine learning is a rapidly growing field and h2o.ai is leading the charge. If you are passionate about applying cutting-edge AI ML algorithms to solve real-world challenges and explain complex machine-learning concepts in simple business terms, then we want to hear from you!",h2o.ai,3.8,"Mountain View, CA",201 to 500 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,160,254,207.0, CA,10,0,0,0,0,0
+Sr. Data Scientist,$83K - $138K (Glassdoor est.),Data Scientist,"Sr. Data Scientist -INF0001YE
+Description
+
+Analytics Sr. Consultant – Sr. Data Scientist – R&D
+Description
+Headquartered in the heart of downtown Chicago, CNA is a leading commercial and specialty insurer, offering a diverse range of insurance products including Workers Compensation, Property, General Liability, Professional Liability, Cyber Insurance, Surety, and Warranty. We are one of the world leaders in underwriting non-medical professionals, from lawyers and accountants to architects and management consultants.
+What CNA offers",CNA Insurance,3.6,"Chicago, IL",1001 to 5000 Employees,1897,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),83,138,110.5, IL,124,0,0,0,0,0
+Research Scientist - Radar,$66K - $135K (Glassdoor est.),Research Scientist,"IAI is looking for highly motivated Research Scientists with experience in radar theory and simulations, radar system design and signal processing. In this role you will conduct research and development for innovative advanced radar system design, modeling and simulation. The areas of interest include advanced radar processing, target detection, Phased Array, digital beamforming, SAR, ISAR, MTI, and target tracking algorithms.
+
+Required Skills
+MS or PhD in Electrical Engineering (or a related field)
+Experience in radar system design and simulations
+Experience in implementing radar processing algorithms in MATLAB, C/C++, or Java, and generate simulation models to verify the algorithms",Intelligent Automation,3.7,"Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),66,135,100.5, MD,34,0,0,0,0,0
+Staff Data Scientist,$101K - $161K (Glassdoor est.),Data Scientist,"Alteryx is searching for a Staff Data Scientist in our Boston office.
+We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.
+Alteryx Innovation Labs
+The Innovation Labs office, Alteryx's first office presence in Boston, was started earlier this year by the acquisition of MIT-spinout Feature Labs . This rapidly growing team combines the excitement of being part of a fast-paced, innovative startup with the resources, market penetration, and wisdom of a data analytics market leader. Our goal is to turbo-charge machine learning and data science efforts on the Alteryx platform, and to enable anyone to solve dynamic problems. We are working on high-impact, high-visibility projects, and we’re looking for collaborative and knowledge-hungry teammates who want to join us as we work to democratize machine learning.","Alteryx, Inc.",3.6,"Boston, MA",1001 to 5000 Employees,1997,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),101,161,131.0, MA,24,0,0,0,0,0
+Software Developer,$46K - $82K (Glassdoor est.),Software Developer,"You didn’t get in to this field to do the same types of tasks over and over; that’s boring. Consider consulting, where everything changes – the business domain, the technology, the team, the users, the client – everything. Constant change means constant challenge and opportunity. Sound exciting? It isn’t for everyone, but if you thrive in this type of environment, you belong at Resource Data.
+Ideally, you’ll have a couple years’ experience in .Net programming, mobile development, databases, and web applications; but, we’re more interested in your accomplishments than your current skills. To show you what we mean, look at your first year here.
+To get started, you’ll get familiar with us by working on our internal business systems. This will give you a chance to get to know the business users, other developers, and team leads. You’ll get familiar with our internal development process and tools.","Resource Data, Inc.",4.3,"Portland, OR",201 to 500 Employees,1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),46,82,64.0, OR,35,0,0,0,0,0
+Deputy Helpdesk Manager,$46K - $82K (Glassdoor est.),Helpdesk Technician,"Req ID: 122066
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Deputy Helpdesk Manager to join our team in Nashville, Tennessee (US-TN), United States (US).
+
+The program is an Enterprise Service Center that provides comprehensive service management, operations, and reporting capabilities. The NTT DATA Deputy Service Desk Manager will assist the Service Desk Manager in managing the performance of service desk (Level 1) to users in a dynamic forward-leaning environment and take full ownership
+
+and accountability for ITIL Incident & Problem management processes, resolution coordination and client reporting. The customer-facing Deputy Service Desk Manager will be one of the client's main NTT DATA points of contact for driving and reporting on all incident and problem management activities arising from the delivery of service desk. The ideal candidate interfaces and coordinates with the Level 1 Service Desk, other tiers of support, other resolving groups and Third-Party Suppliers for Incident and Problem Management Service activities and takes full ownership of end-to-end Incident and Problem Resolution.
+
+
+
+
+
+
+
+
+
+
+
+
+:
+
+Up to 5% travel may be required
+
+INDPUBLIC
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Nashville
+
+
+Consulting, Information Systems, Manager, Business Manager, Computer Science, Technology, Management",NTT DATA Corporation,3.7,"Nashville, TN",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, TN,54,0,0,0,0,0
+Compliance Analyst,$46K - $82K (Glassdoor est.),Compliance Analyst,"It's fun to work in a company where people truly BELIEVE in what they're doing !
+Job Summary
+Bread is a technology company that aims to transform the world of paper credit card applications and hidden interest rates by providing leading point-of-sale financing options for merchants across the e-commerce journey. We build tools, technologies and APIs that allow merchants to integrate an installment loan financing and checkout experience anywhere in their customers’ shopping journey. Bread was started in 2015 by financial technology veterans, and has experienced explosive growth to date.
+
+
+
+
+
+
+
+
+Associate's Degree
+Two or more years
+Compliance, Compliance Frameworks, Federal Reserve, Governance Controls, Governance Reporting, Office of Foreign Assets Control (OFAC), Regulatory Frameworks, Risk Mitigation
+Legal
+
+
+Regular",Alliance Data,3.3,"New York, NY",10000+ Employees,1996,Company - Public,Advertising & Marketing,Business Services,,46,82,64.0, NY,25,0,0,0,0,0
+Lead Campaign Manager,$46K - $82K (Glassdoor est.),Campaign Manager,"General Summary:
+The Lead Campaign Manager is responsible for oversight on primary accounts, managing daily workflow and monitoring team schedules. Works closely with Campaign Managers, Clients, Sales Team and Quality Assurance resources to ensure best practices are followed and campaign development is executed to client expectations.
+This position is responsible for the daily campaign execution production within the Campaign Execution Services department, ensuring that all campaign deployment requests have been assigned resources and that work is distributed evenly among the available resources. Because of the fluctuations in workloads, the Lead may be required to help shift work from one resource to another, or to communicate with the client if deadlines may be compromised.
+I. Essential Job Functions: *",Data Axle,3.5,Remote,1001 to 5000 Employees,1972,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$100 to $500 million (USD),46,82,64.0,Remote,49,0,0,0,0,0
+Software Developer,$46K - $82K (Glassdoor est.),Software Developer,"We are currently seeking a software developer to join our team in High Point, NC. Candidate will have a high degree of technical skill and a broad understanding of programming concepts. We are looking for someone with a passion for programming and software design.
+Preferred Data Corp. is a business to business full-service information technology company located in High Point, North Carolina. This is a full-time position that requires a local office presence.
+Design, develop, maintain new applications and existing ones
+Detect, report, investigate and fix defects
+Requirement’s analysis, design, development, testing, commissioning and training",Preferred Data Corporation,-1.0,"High Point, NC",-1,-1,-1,-1,-1,-1,46,82,64.0, NC,-1,0,0,0,0,0
+Vendor Marketing Manager III,$46K - $82K (Glassdoor est.),Marketing Manager,"Collaborates with management to define and develop marketing strategies to drive profitable growth
+Identifies, establishes and maintains relationships with brand partners, third party vendors, etc. to leverage current offerings, opportunities and successes.
+Increases agreed upon growth goals, drives demand generation and expands market share by identifying, planning and executing the activities required to ensure successful achievement of marketing business objectives.
+Markets products/brands within budget to obtain maximum profitability.
+Evaluates and adjusts strategies to respond to changing and/or competitive markets.
+Such activities may include the following as well as other duties as assigned:
+Essential Duties & Responsibilities Required",Tech Data Corporation,3.7,"Clearwater, FL",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD),46,82,64.0, FL,47,0,0,0,0,0
+Systems Engineering Specialist,$46K - $82K (Glassdoor est.),Systems Engineer,"Req ID: 111603
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Systems Engineering Specialist to join our team in Chicago, Illinois (US-IL), United States (US).
+
+Job Responsibilities Include:
+Provide client desktop images, configuration, software distribution and patching
+Provide 3rd-level technical support in resolving internal and customer technical issues
+Creation, Support & Implementation for Windows 7, 8, 8.1, 10 Imaging
+
+
+
+
+
+
+
+Must be US Citizen and should have ability to get Security Clearance
+
+INDPUBLIC
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Chicago
+
+
+Consulting, Cloud, Technical Support, Project Manager, Technology",NTT DATA Corporation,3.7,"Chicago, IL",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, IL,54,0,0,0,0,0
+Product Manager,$46K - $82K (Glassdoor est.),Product Manager,"Senior Product Manager
+IDRs client is seeking a Senior Product Manager to join their team remotely.
+Required Skills/Experience of the Senior Product Manager Include:
+Deeply rooted in Agile, Lean, and continuous delivery principles that maximize flow of value with a passion to extend this understanding throughout the organization
+Demonstrated success creating digital products vision, strategy, experience, and enterprise solutions and services - from ideation to launch, including engineering and operational quality
+Experience working with a multi-disciplinary team on customer-focused products and services",Internal Data Resources,4.1,Remote,201 to 500 Employees,1998,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),46,82,64.0,Remote,23,0,0,0,0,0
+Scanning Technician,$46K - $82K (Glassdoor est.),Technician,"The candidate will work in Data Federal's Document Management and Digitization division which is focused on various scanning and shredding projects for the federal government. Data Federal is looking for candidates interested in full or part time employment.
+Primary duties include: Preparing and scanning documents and materials – files, books, newspapers, maps, microfilm as well as performing quality control on all scanned materials. Candidate may also be assigned to shred scanned materials.
+Qualifications:
+The candidate should possess the following skills:
+Excellent computer skills
+Ability to do repetitive yet detail oriented work",Data Federal Corporation,3.2,"Columbia, MD",1 to 50 Employees,-1,Contract,-1,-1,$1 to $5 million (USD),46,82,64.0, MD,-1,0,0,0,0,1
+Marketing Specialist,$46K - $82K (Glassdoor est.),Marketing Manager,"IDC is seeking an innovative Marketing Programs Specialist to accelerate the launch of our Future Enterprise Awards program.
+The Marketing Program Specialist would oversee IDC's nine Future Enterprise practice awards programs. They would be responsible for promoting the awards, managing the outreach to potential nominees and the follow up needed to ensure a successful awards program. This individual will work closely with the VP of Marketing and other key stakeholders to identify key organizations and technology initiatives that would qualify for the awards programs and execute programs to attract nominations. They would also be involved in supporting marketing initiatives around the events where the awards would be highlighted and presented.
+This role is located in IDC's Needham, MA headquarters. (Currently remote due to COVID-19.)",International Data Group,3.3,"Needham, MA",10000+ Employees,1964,Company - Private,Publishing,Media,$2 to $5 billion (USD),46,82,64.0, MA,57,0,0,0,0,0
+Marketing Coordinator,$46K - $82K (Glassdoor est.),Marketing Coordinator,"Essential Duties & Responsibilities Required
+Supports and manages the coordination of material collection for the marketing activities purchased by Tech Data's Vendor Partners.
+Notifies and gathers the necessary marketing information needed in order to execute Business Partner participation within marketing activities, programs and campaigns for the Marketing Services Department.
+Ensures client/stakeholder satisfaction.
+Notifies respective internal clients/vendor partners of deadlines and upcoming activities.
+Monitors assigned marketing activities to ensure timely and accurate completion.
+Reconciles assigned jobs as well as provides updates in a tracking database.",Tech Data Corporation,3.7,"Clearwater, FL",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD),46,82,64.0, FL,47,0,0,0,0,0
+Materials Manager,$46K - $82K (Glassdoor est.),Materials Manager,"Bachelor's degree in Business or other related quantitative discipline
+5+ years of related professional experience
+3+ years of experience using data analysis tools such as Microsoft Excel, SQL, statistics software, etc.)
+
+AWS Infrastructure is looking for a talented, driven, and highly analytical,Materials Manager with demonstrated experience driving process improvement.
+
+This individual will be responsible for leading inventory management strategies to maximize customer experience, inventory levels, and operational efficiency. Materials Management is critical to protecting manufacturing capacity and delivering the end product to our customer at the right time.
+
+RESPONSIBILITIES:
+Vendor Management
+Supply Chain
+Automation Enhancement
+Up to 10% Travel required","Amazon Data Services, Inc.",3.8,"Florence, KY",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),46,82,64.0, KY,27,0,0,1,0,1
+Business IT Merger & Acquisition Strategy Sr. Manager,$46K - $82K (Glassdoor est.),Strategy Manager,"Req ID: 105976
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Business IT Merger & Acquisition Strategy Sr. Manager to join our team in Boston, Massachusetts (US-MA), United States (US).
+
+In this role resource will be responsible for:
+
+Advising senior IT executives (e.g., CIO, VP IT, IT Director) at our Manufacturing and Life Sciences clients that are undergoing a merger, acquisition, or divestiture.
+
+
+
+* Leading IT MA&D Advisory and Execution Programs for clients * Creating work plans, pricing estimates, and risk assessments to support the pre-sales process * Understanding client investment needs/constraints and help tailor proposals appropriately to meet their needs
+
+Basic Qualifications for this role include:
+
+
+
+
+
+
+
+#Bconsult
+
+#LI-NAM
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+
+
+Boston
+
+
+Consulting, Database, ERP, Oracle, Manager, Technology, Management",NTT DATA Corporation,3.7,"Boston, MA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, MA,54,0,0,0,0,0
+Flexcube SME with Loan IQ expertise,$46K - $82K (Glassdoor est.),Loan Administrator,"Req ID: 113108
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Flexcube SME with Loan IQ expertise to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Flexcube & Loan IQ Subject Matter Expert (SME) will support projects/programs through analysis, design, testing, migration, and implementation. Provide Flexcube SME knowledge, functional system expertise and support to development resources and users. Support the conversion mapping from Flexcube to build the required extracts. Support business/Operations/Tech in analyzing the various feeds currently generated in Flex Loans. Provide various data requests by understanding the requirements and building the required queries to generate reports in a timely manner. The Flexcube & Loan IQ SME will ensure the process outputs needed by the project team are created in a timely fashion including business and functional requirements, use cases, flow diagrams, and etc.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Consulting, Management Consulting, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, GA,54,0,0,0,0,0
+Product Engineer,$46K - $82K (Glassdoor est.),Product Engineer,"About Us
+Founded in 1973, O’Neil Digital Solutions (ODS) is a leading IT consulting firm specializing in the optimization of complex end-to-end business process systems for a multitude of business verticals including Financial Services, Digital Media, Healthcare, and Transportation industries. ODS provides high-touch bespoke software engineering, systems integration, and infrastructure management services to clients of all sizes and industries. From large scale mass communication projects to highly secure and confidential data analytics using Big Data frameworks like Hadoop and AWS Redshift, ODS has a broad set of proven technical capabilities that help companies make complex digital transformations. ODS offers state of the art publishing solutions through our customer-centric applications and services include electronic document delivery, web applications, high-speed digital printing (color and black & white), automated composition, offset printing, warehousing and fulfillment services. ODS is headquartered in Los Angeles, CA and also has offices/plants in Texas and North Carolina centrally located to serve clients across the country.",Data Analysis Inc.,-1.0,California,-1,-1,-1,-1,-1,-1,46,82,64.0,California,-1,0,0,1,0,0
+Data Engineer - Loan IQ Experience,$46K - $82K (Glassdoor est.),Data Engineer,"Req ID: 113106
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Loan IQ Data Architect / Engineer to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Loan IQ Data Architect will be responsible for optimizing current domain capabilities, developing the roadmap for the strategic evolution of the product & maximizing value for operations & market partners. They will combine years of proven expertise to create innovative technology through solid engineering practices. With deep knowledge of design, analytics, development, coding, testing and application programming, the Loan IQ Data Architect will satisfy both business and functional requirements. The Loan IQ Data Architect will encompass loan origination process and fixed income products like treasury (bonds, notes, and bill), mortgaged backed securities (MBS), municipal bonds, corporate bonds, junk bonds and convertible bonds. Will ensure completeness, correctness and consistency of data and data structure identifying, tracking, and resolving basic queries. The Loan IQ Data Architect will be hired into this role with a good understanding of SDLC process and will be involved in end to end implementations of DWH and reporting solutions using Tableau, SSRS, OBIEE, Informatica, SSIS and Data Stage.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Database, Consulting, Developer, Management Consulting, SQL, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, GA,54,0,0,0,0,0
+Field Service Technician,$46K - $82K (Glassdoor est.),Field Service Technician,"Req ID: 111580
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Field Service Technician to join our team in Chicago, Illinois (US-IL), United States (US).
+
+Job Responsibilities Include:
+Tier 1 Support of all Customer Inquiries for assistance. via Telephone, Web, Walk-In or e-Mail
+Being prepared to professionally assist customer support questions or learning where to route issues for other Service Providers
+
+
+
+
+
+
+
+INDPUBLIC
+
+Must be US Citizen and should have ability to get Security Clearance
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Chicago
+
+
+Technician, Consulting, Cloud, Testing, Technology",NTT DATA Corporation,3.7,"Chicago, IL",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, IL,54,0,0,0,0,0
+Financial Data Engineer - Loan IQ Experience,$46K - $82K (Glassdoor est.),Data Engineer,"Req ID: 113106
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Loan IQ Data Architect / Engineer to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Loan IQ Data Architect will be responsible for optimizing current domain capabilities, developing the roadmap for the strategic evolution of the product & maximizing value for operations & market partners. They will combine years of proven expertise to create innovative technology through solid engineering practices. With deep knowledge of design, analytics, development, coding, testing and application programming, the Loan IQ Data Architect will satisfy both business and functional requirements. The Loan IQ Data Architect will encompass loan origination process and fixed income products like treasury (bonds, notes, and bill), mortgaged backed securities (MBS), municipal bonds, corporate bonds, junk bonds and convertible bonds. Will ensure completeness, correctness and consistency of data and data structure identifying, tracking, and resolving basic queries. The Loan IQ Data Architect will be hired into this role with a good understanding of SDLC process and will be involved in end to end implementations of DWH and reporting solutions using Tableau, SSRS, OBIEE, Informatica, SSIS and Data Stage.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Database, Consulting, Developer, Management Consulting, SQL, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, GA,54,0,0,0,0,0
+Data Center Expansion Manager,$46K - $82K (Glassdoor est.),Pr Manager,"Bachelor’s Degree in Business, Finance, Economics, Engineering, or related fields.
+7+ years of experience in business development, real-estate transactions, or contract negotiations in a technical industry (such as Infrastructure as a Service, Aersospace/Automotive, or other highly engineered and complex industries)
+Transaction, project or program management experience.
+Do you have the Real Estate and business background, negotiation skills, financial expertise and technical background necessary to grow Amazon’s technology platform? As a Technical Business Developer within AWS Infrastructure, you will have the opportunity to help shape and execute on strategies to expand our Data Center portfolio and related infrastructure. You will help develop where we go, how we get there, and negotiate the contracts needed to provide best in market deliverables. The ideal candidate will possess a real estate, business, financial, and engineering background that enable them to drive a data center transaction, and interact with business leaders at all levels to develop the best strategic alternatives and effectively drive those strategies to conclusion. They should have a demonstrated ability to negotiate multimillion dollar contracts from a business and technical perspective. They should also have a demonstrated ability to think strategically about business, market, and technical challenges with the ability to build and convey compelling value strategy plans. The ideal candidate will possess the necessary business experience to drive engagement at CXO/VP level, along with a deep technical understanding of data center and network infrastructure. They should have a demonstrated ability to think strategically about business, product, and technical challenges. A compelling communicator, they will be comfortable articulating complex technical and commercial structures across the AWS business. They will be a strategic thinker with highly developed analytical and modeling skills, they will have a proven record of developing long-term infrastructure plans to support dynamic, rapidly scaling businesses.
+
+
+Amazon is a committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.","Amazon Data Services, Inc.",3.8,"Seattle, WA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),46,82,64.0, WA,27,0,0,1,0,0
+Accounts Receivable Specialist,$46K - $82K (Glassdoor est.),Accounts Receivable Specialist,"IDRs largest client is seeking an Accounts Receivable Specialist to join their team!
+***The expectation is that this candidate should be able to come onsite to Alpharetta once COVID restrictions have been lifted
+Responsibilities of the Accounts Receivable Specialist:
+Resolve issues and variances in the General Ledger.
+Review collections and report on all Accounts Receivable related accounts.
+Prepare and publish monthly reports.
+Assist with special financial projects as needed.
+Effectively communicate with staff members on findings.",Internal Data Resources,4.1,Remote,201 to 500 Employees,1998,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),46,82,64.0,Remote,23,0,0,0,0,0
+Customer Service Representative,$46K - $82K (Glassdoor est.),Customer Service Representative,"Req ID: 4489
+
+At NTT DATA Services, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company's growth, market presence and our ability to help our clients stay a step ahead of the competition. By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA Services and for the people who work here.
+
+NTT DATA Services currently seeks a Customer Service Representative to join our team in Lincoln, Nebraska (US-NE)
+
+In these roles you will be responsible for:
+Providing front-line phone customer service to policyholders, beneficiaries, agents, and internal customers.
+
+Required Skills for this role include:
+
+#INDBPO
+
+This position is only available to those interested in direct staff employment opportunities with NTT DATA, Inc. or its subsidiaries. Please note, 1099 or corp-2-corp contractors or the equivalent will NOT be considered. We offer a full comprehensive benefits package that starts from your first day of employment.
+
+
+
+NTT DATA Services partners with clients to navigate and simplify the modern complexities of business and technology, delivering the insights, solutions and outcomes that matter most. We deliver tangible business results by combining deep industry expertise with applied innovations in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services.
+
+NTT DATA Services, headquartered in Plano, Texas, is a division of NTT DATA Corporation, a top 10 global business and IT services provider with 100,000+ professionals in more than 50 countries, and NTT Group, a partner to 85 percent of the Fortune 100. Visit nttdataservices.com to learn more.
+
+NTT DATA, Inc. (the ""Company"") is an equal opportunity employer and makes employment decisions on the basis of merit and business needs. The Company will consider all qualified applicants for employment without regard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law. To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.
+
+Lincoln
+
+
+Clerical, Consulting, Cloud, Administrative, Technology",NTT DATA Corporation,3.7,"Lincoln, NE",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, NE,54,0,0,1,0,0
+Vendor Marketing Manager II - Cisco,$46K - $82K (Glassdoor est.),Marketing Manager,"The vendor marketing manager is an integral role in the overall development of the go-to-market for the Cisco brand. Working closely with our vendor business team, the vendor marketing manager will be responsible for the development, launch and monitoring of effective marketing strategies and programs that will support our reputation and growth within the channel.
+Collaborates with management to define and develop marketing strategies to drive profitable growth;. Identifies, establishes and maintains relationships with brand partners, third party vendors, etc. to leverage current offerings, opportunities and successes. Increases agreed upon growth goals, drives demand generation and expands market share by identifying, planning and executing the activities required to ensure successful achievement of marketing business objectives. Plan and implement marketing strategy across all channels (web, content, social, email, field). Markets products/brands within budget to obtain maximum profitability. Evaluates and adjusts strategies to respond to changing and/or competitive markets. Such activities may include the following as well as other duties as assigned",Tech Data Corporation,3.7,"Tempe, AZ",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD),46,82,64.0, AZ,47,0,0,0,0,0
+Recruiter,$46K - $82K (Glassdoor est.),Recruiter,"Location: San Francisco, CA
+Expected Pay Rate: $50.00 - $75.00 per hour
+Schedule: Monday - Friday, 40 hours per week
+Assignment Length: 4 month contract
 Job Description
-Numerator is looking for a Data Engineer who is a Big Data enthusiast and has a passion for working with an interesting robust set of data. This person will work in our platform to help ensure that our data quality is flawless. As a company, we have millions of new data points every day that come into our system. You will be working with a passionate team of engineers to solve challenging problems and ensure that we can deliver the best data to our customers, on-time. You will be using the latest cloud data warehouse technologies to build robust and reliable data pipelines.",Numerator,4.2,"Chicago, IL",1001 to 5000 Employees,2004.0,Company - Private,Internet,Information Technology,$100 to $500 million (USD),78,145,111.5, IL,17.0,0,0,0,0,0
-Data Scientist,$64K - $106K (Glassdoor est.),Data Scientist,"Secure our Nation, Ignite your Future
-Overview
-Each day U.S. Customs and Border Protection (CBP) oversees the massive flow of people, capital, and products that enter and depart the United States via air, land, sea, and cyberspace. The volume and complexity of both physical and virtual border crossings require the application of solutions to promote efficient trade and travel. Further, effective solutions help CBP ensure the movement of people, capital, and products is legal, safe, and secure.
-As a Data Scientist on our team, a proven track record of delivering production ready decision support tools and applications employed in the field and by mission-support entities. Further, highly competitive applicants will have a demonstrated capacity to: work closely and collaboratively with mission stakeholders; respond to emergent, mission-driven changes in priorities and expected outcomes; and, apply new and emerging tools and techniques.",ManTech International Corporation,4.2,"Alexandria, VA",5001 to 10000 Employees,1968.0,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),64,106,85.0, VA,53.0,0,0,0,0,0
-"Data Scientist, Revenue Optimization",$50K - $85K (Glassdoor est.),Data Scientist,"Summary: The Data Scientist is responsible for developing and refining models to enable Revenue Management to optimize room revenue. The Data Scientist will discover revenue opportunities, design models and experiments, deploy solutions, iterate, and measure success of those solutions.
+HireArt is helping a next-generation data lake engine find a Recruiter to perform full life-cycle recruiting from sourcing to closing. The ideal candidate will have experience as a technical or sales recruiter in either a fast-paced startup environment or an at-scale tech company.
+This is a full-time (40 hours per week), 4-month contract position and will be fully remote.",A Next-Generation Data Lake Engine,-1.0,"San Francisco, CA",-1,-1,-1,-1,-1,-1,46,82,64.0, CA,-1,0,0,0,0,0
+"Strategist, Marketing",$46K - $82K (Glassdoor est.),Strategist,"It's fun to work in a company where people truly BELIEVE in what they're doing !
+Job Summary
+The Marketing Strategy group is responsible for the development of programs that allow brands and ADS to reward customer behavior through the development of Loyalty and Value Proposition programs. This includes customer research, thought leadership, and project management with our brand and internal partners from inception to completion of each program.
+
+Bachelor’s Degree (Required)
+Five or more years
+Business Strategies, Client Management, Credit Card Marketing, Emerging Payments, Finance, Financial Acumen, Marketing, Payments Industry, Relationship Management
+Marketing
+
+
+Regular",Alliance Data,3.3,"Columbus, OH",10000+ Employees,1996,Company - Public,Advertising & Marketing,Business Services,$5 to $10 billion (USD),46,82,64.0, OH,25,0,0,0,0,0
+Experienced Flexcube/Loan IQ SME,$46K - $82K (Glassdoor est.),Subject Matter Expert,"Req ID: 113108
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Flexcube SME with Loan IQ expertise to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Flexcube & Loan IQ Subject Matter Expert (SME) will support projects/programs through analysis, design, testing, migration, and implementation. Provide Flexcube SME knowledge, functional system expertise and support to development resources and users. Support the conversion mapping from Flexcube to build the required extracts. Support business/Operations/Tech in analyzing the various feeds currently generated in Flex Loans. Provide various data requests by understanding the requirements and building the required queries to generate reports in a timely manner. The Flexcube & Loan IQ SME will ensure the process outputs needed by the project team are created in a timely fashion including business and functional requirements, use cases, flow diagrams, and etc.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Consulting, Management Consulting, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, GA,54,0,0,0,0,0
+Customer Marketing Manager,$46K - $82K (Glassdoor est.),Marketing Manager,"At PitchBook we work to provide global professionals with comprehensive data on the entire venture capital, private equity and M&A landscape so they can discover and execute opportunities with confidence. We credit our success and rapid growth to our cutting-edge products, customer centered attitude and ability to embrace and drive change.
+
+In just over a decade, PitchBook has reached over 1,300 global employees with offices worldwide, and we’re not slowing down! Consistently recognized as a Best Place to Work, our culture is at the heart of our success and is driven by excellence, inclusion, and fun. At PitchBook we’re committed to fostering an open and collaborative work environment.
+
+About the Role:
+
+The PitchBook Marketing team is looking for a forward-thinking, creative, and strategic Customer Marketing Manager to support our Customer Success team and expand our client base through subscription upgrades, new contracts and restarting prior clients. The person who will thrive in this role will seek a deep understanding of our customers, can identify the ideal targets for generating additional revenue and will shape resonant messages. We are looking for a candidate eager and equipped to design a comprehensive marketing plan specific to our existing accounts.
+
+This person will drive key marketing activities that originate in saving time for customers, partnering with them in achieving their business goals and ensuring they have the information they need to win and invest with confidence. This knowledge will result in effective, targeted campaigns to compel clients to stay and grow with PitchBook. This role is highly collaborative and will interface with many departments at PitchBook, including Product Marketing Managers, Campaign Managers, marketing creative teams, Product and Institutional Analyst teams, and our CS team members to engage clients throughout their lifecycle, emphasizing value in our product and service offering and deepen relationships with accounts.
+
+We are in search of a customer champion who is relentless in pursuing the most effective marketing programs for expanding our existing user base and exhibiting curiosity, flexibility in applying a variety of tactics with constant attentiveness to strategic goals.
+
+The Marketing team at PitchBook is critical to fueling the company’s growth by utilizing a variety of strategies to support our Sales and Customer Success departments grow and retain our client base. The Marketing department is responsible for all demand generation efforts by executing engaging campaigns, effective product marketing strategies, and attending client and trade-show events. The Marketing team is also responsible for promoting the PitchBook brand and managing internal communications
+
+If you are ready to start the conversation about how you might contribute to all the happenings at PitchBook, submit your resume today! PitchBook appreciates and respects diversity, and as such, we are an equal opportunity employer.
+
+#LI-AB1","PitchBook Data, Inc.",4.3,"Seattle, WA",1001 to 5000 Employees,2007,Company - Public,Venture Capital & Private Equity,Finance,$100 to $500 million (USD),46,82,64.0, WA,14,0,0,0,0,1
+Flexcube/Loan IQ Subject Matter Expert,$46K - $82K (Glassdoor est.),Subject Matter Expert,"Req ID: 113108
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Flexcube SME with Loan IQ expertise to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Flexcube & Loan IQ Subject Matter Expert (SME) will support projects/programs through analysis, design, testing, migration, and implementation. Provide Flexcube SME knowledge, functional system expertise and support to development resources and users. Support the conversion mapping from Flexcube to build the required extracts. Support business/Operations/Tech in analyzing the various feeds currently generated in Flex Loans. Provide various data requests by understanding the requirements and building the required queries to generate reports in a timely manner. The Flexcube & Loan IQ SME will ensure the process outputs needed by the project team are created in a timely fashion including business and functional requirements, use cases, flow diagrams, and etc.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Consulting, Management Consulting, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),46,82,64.0, GA,54,0,0,0,0,0
+Market Research Intern,$46K - $82K (Glassdoor est.),Market Researcher,"Overview:
+
+At IDC, we truly believe our people are our biggest asset, and we take the time to invest in their career path and ongoing professional development. Launch your career with the world's most recognized leader in market research and advisory services, and join a dynamic environment where your input is expected, appreciated and rewarded.
+
+IDCs Research Divisions are seeking remote, paid summer interns (10 week, 30 hour/week assignments) who will participate in market research activities that support our research agenda. Candidates who possess research, writing and data analysis skills are desired.
+This is an exciting opportunity to develop your career, learning from the industrys sharpest and most forward thinking analysts!
 Responsibilities:
-Create, implement, and iterate predictive and/or prescriptive models to drive revenue through price and conversion across revenue management, CRM, web, onsite revenue, and other critical commercial levers.
-Leverage R, Python, or similar to execute analysis in cloud data warehouse (Snowflake) for large-scale analytical efforts. Advanced knowledge of R or Python as well as statistical packages and libraries required.",Great Wolf Lodge,3.6,"Madison, WI",10000+ Employees,1997.0,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,Unknown / Non-Applicable,50,85,67.5, WI,24.0,1,0,0,0,0
-Autonomous Driving Data Engineer,$99K - $178K (Glassdoor est.),Data Engineer,"Leading the future of luxury mobility
+Qualifications:","International Data Group, Inc.",3.3,Remote,10000+ Employees,1964,Company - Private,Publishing,Media,$2 to $5 billion (USD),46,82,64.0,Remote,57,0,0,0,0,0
+Next Gen Solutions Marketing Manager (global),$46K - $82K (Glassdoor est.),Marketing Manager,"Job Purpose:
+Cultural Competency Requirements:
+Within Tech Data diversity is one of our fundamental shared values. We are a multi-cultural environment and we pride ourselves on being a welcoming place of work where we celebrate inclusion and champion people from a multitude of backgrounds.
+Join our team to connect the world with the power of technology!
+Tech Data is an equal opportunity organization. We recruit, employ, train, compensate, and promote without regard to race, religion, creed, color, national origin, age, gender, sexual orientation, gender identity, marital status, disability, veteran status, or any other basis protected by applicable federal, state or local law.",Tech Data Corporation,3.7,"Clearwater, FL",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD),46,82,64.0, FL,47,0,0,0,0,0
+Sales & Marketing Partner,$46K - $82K (Glassdoor est.),Sales And Marketing Manager,"General Summary:
+The Sales & Marketing Partner is responsible for generating revenue from prospects and inactive customers through consultative selling, outstanding customer service practices, and for assisting customers with any problems that may occur during the order and delivery process. This position will also assist with growth and expansion revenue for customers.
+Essential Job Functions:
+Respond to incoming customer calls/interactions/chats.
+Make outbounds to prospects (driven by marketing efforts), inactives and current customers.
+Provide weekly/monthly pipeline and forecasts.",Data Axle,3.5,Remote,1001 to 5000 Employees,1972,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$100 to $500 million (USD),46,82,64.0,Remote,49,0,0,0,0,0
+Employment Consultant,$27K - $43K (Glassdoor est.),Employment Specialist,"Employment Consultant
+Job Tracking ID : 512181-762861
+Job Level : Entry Level (less than 2 years)
+Level of Education : BA/BS
+Job Type : Full-Time/Regular
+Date Updated : 03/11/2021
+Salary : $35,000 year
+Job Description","Educational Data Systems, Inc.",4.3,"York, PA",501 to 1000 Employees,1979,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,27,43,35.0, PA,42,0,0,0,0,0
+Job Coach,$27K - $43K (Glassdoor est.),Coach,"Job Coach
+Job Tracking ID : 512181-755190
+Job Level : Mid Career (2+ years)
+Level of Education : BA/BS
+Job Type : Full-Time/Regular
+Date Updated : 02/22/2021
+Salary : $40,000 year
+Job Description","Educational Data Systems, Inc.",4.3,"Allentown, PA",501 to 1000 Employees,1979,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,27,43,35.0, PA,42,0,0,0,0,0
+Marketing Coordinator,$27K - $43K (Glassdoor est.),Marketing Coordinator,"Infutor is looking for a Marketing Coordinator to manage and execute marketing initiatives in collaboration with the SVP of Marketing and the Director of Marketing Operations. This is an opportunity to join a fast-paced technology environment and learn first-hand how to build and execute B2B marketing campaigns.
 
-Lucid’s mission is to inspire the adoption of sustainable energy by creating the most captivating luxury electric vehicles, centered around the human experience. Working at Lucid Motors means having a shared vision to power the future in revolutionary ways. Be part of a once-in-a-lifetime opportunity to transform the automotive industry.
+Responsibilities
+Coordinate deployment of email marketing campaigns in Marketo
+Copywriting and editing for email marketing campaigns, social media posts, and client communications and newsletters
+Work cross-functionally with other departments and external agencies and vendors
+Coordinate calls and set meeting agendas with external vendors and agency contacts
+Track and assemble deliverables for paid media placements, trade shows, and other marketing initiatives",Infutor Data Solutions,4.2,"Chicago, IL",51 to 200 Employees,2003,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),27,43,35.0, IL,18,0,0,0,0,0
+Web Developer,$27K - $43K (Glassdoor est.),Web Developer,"Job Description:
 
-We are currently seeking an experienced Big Data Engineer to help building up our large-scale data management system for the ADAS / Autonomous Driving team. This field allows contributions on various levels around the data pipeline and data processing, data annotation, machine learning, data ingestion, data pre-processing, integration of Deep Neural Network frameworks, efficient data search and high performance data manipulation.
-You Will:",Lucid Motors,4.0,"Newark, CA",1001 to 5000 Employees,2007.0,Company - Private,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable,99,178,138.5, CA,14.0,0,0,0,0,0
+This position will support the Combined DNA System [CODIS] department. CODIS allows forensic laboratories to exchange and compare DNA profiles electronically, thereby linking serial crimes to each other to identify potential suspects by matching DNA from crime scenes to offenders.
+
+Responsibilities:
+
+· Work as part of a team to ensure website is well-structured and easy to use and navigate.
+
+· Ensure all customer design requirements are met
+
+· Ensure all necessary topics are covered, up-to-date and accurate to include web pages, images, videos, blog posts, guest articles, reviews and occasionally marketing materials.
+
+· Manage content by editing the site through various toolsets, processes, and when necessary, manual coding.
+
+· Take customer feedback and revise content accordingly.
+
+· Test new features with functional or automated unit testing.
+
+· Conduct innovation reviews to determine newest or emerging technologies that may be folded into design.
+
+· Conduct content audits to identify gaps and redundancies in the site content.
+
+· Create and implement content schedules for people to produce or update content on scheduled basis.
+
+· Produce maps and visualizations of the site to help staff understand its structure.
+
+· Update HTML, CSS, and JavaScript on the site as needed.
+
+Required Skills:
+
+· Bachelors in associated field
+
+·
+
+· Proficient with the following front-end technologies: HTML, CSS, & JavaScript
+
+· A minimum of (2) two years of relevant experience.
+
+· A minimum of (1) year of experience with front-end web development
+
+· Familiarity with back-end technology
+
+· Familiarity with an object-oriented language
+
+Desired Skills:
+
+· A Bachelors degree in IT, Computer Science, or a related field of study
+
+· Familiar with Internet Information Services
+
+· Familiar with Windows Server
+
+· Familiar with Git or similar version control
+
+· Familiar with virtual environments
+
+· Relevant IT certifications (Certified Web Master, Certified Web Designer, etc)
+
+Powered by JazzHR",Hybrid Data Security LLC,-1.0,"Stafford, VA",1 to 50 Employees,-1,Company - Private,Federal Agencies,Government,Less than $1 million (USD),27,43,35.0, VA,-1,0,0,0,0,0
+Water Expansion Manager,$27K - $43K (Glassdoor est.),Pr Manager,"Bachelor’s Degree in Civil/Mechanical Engineering/Urban Planning or related field
+8+ years’ work experience delivering water infrastructure and engineering solutions for capital-intensive projects
+Analytical and commercial experience to review utility tariffs, water utility reliability and water supply contracts.
+Experience cultivating strong relationships with external stakeholders including utility and government economic development agencies in different geographies.
+Amazon is looking for a results-oriented individual to join the AWS water infrastructure team. In this role, you will provide water due diligence and infrastructure delivery support for global data center expansion projects. You will be responsible for executing multiple water projects across different geographies, conducting due diligence on reliability of utility water infrastructure, and evaluating cost and schedule to deliver water for cooling requirements in existing and new regions. You will develop metrics, communicate performance to technical teams and senior leadership, and be the subject matter expert for all issues pertaining to water infrastructure and risk analysis. This role will collaborate with internal and external stakeholders to deliver a sustainable and cost effective water supply to AWS’s data centers across the globe.
+
+You will play a key role with due diligence and site selection efforts in existing and new regions by compiling and analyzing geographical location and specific prospective site information, including (i) permitting and land use data, (ii) data on water and wastewater availability and cost, (iii) reliable water supply and back up options and availability of alternate water sources.
+
+The Water Infrastructure Expansion Manager will be responsible for the following:
+Amazon is a committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.","Amazon Data Services, Inc.",3.8,"Seattle, WA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),27,43,35.0, WA,27,0,0,1,0,0
+VP of Marketing - SF/Denver/location flexible,$27K - $43K (Glassdoor est.),Marketing Manager,"Are you a force multiplying marketer with an ear for cogent stories, an eye for differentiated design, and commitment to quickly going where the data leads you? Do you understand from experience how to deploy the full capabilities of a modern marketing org, but are still comfortable proofing and iterating with a small team of collaborators? Can you strategize with leadership and dig deep with customers to refine the theories before committing to activations? Are you eager to immerse yourself in the sales process, so you can give every seller the tools they need to succeed and help them close deals? Can you find the angles that connect your objectives to the news cycle, so everyone that matters trusts your brand? Are you ready to be the master communicator for a well-fueled rocket ship of a company, poised to change the way the industry sees and evaluates some of the most valuable data in the world?
+
+As the VP of Marketing, you will develop the marketing strategy, hire and lead a team to grow Windfall’s business. You will also be responsible for our brand more broadly: defining our products and strengthening our identity as the leading contextual analytics platform powered by AI. Ultimately, you will be our guide and our voice as we enter our next chapter, powering not only the company’s growth, but enabling us to realize our mission: to empower data driven organizations to effectively identify, understand and engage affluent consumers with the industries most reliable and accurate data set.",Windfall Data,4.4,"San Francisco, CA",1 to 50 Employees,2016,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,27,43,35.0, CA,5,0,0,0,0,0
+Market Development Representative,$27K - $43K (Glassdoor est.),Market Development Representative,"At PitchBook we work to provide global professionals with comprehensive data on the entire venture capital, private equity and M&A landscape so they can discover and execute opportunities with confidence. We credit our success and rapid growth to our cutting-edge products, customer centered attitude and ability to embrace and drive change.
+
+In just over a decade, PitchBook has reached over 1,300 global employees with offices worldwide, and we’re not slowing down! Consistently recognized as a Best Place to Work, our culture is at the heart of our success and is driven by excellence, inclusion and fun. At PitchBook we’re committed to fostering an open and collaborative work environment.
+
+About the Role:
+
+""Customers are King!"" Each and every day the Customer Success Department works to ensure that our clients are maximizing the value they are receiving from PitchBook. Business development, onboarding, training, support, and renewals are handled by the Customer Success team. We believe in doing whatever it takes to make our customers successful and the CS team drives that success every day.
+
+PitchBook is looking for a highly motivated and experienced Market Development Representative (MDR) with a passion for technology and an interest in the private equity and venture capital industry. Market Development Representatives are the first point of contact for the vast majority of expansion opportunities and continuously build their pipeline within the PitchBook client base.
+
+As a Market Development Representative you will be responsible for identifying, qualifying, and scheduling product demonstrations between client non-users and PitchBook Account Managers. MDR's will work closely and collaborate with Account Managers to strategically target opportunities for growth within the PitchBook client base. The MDR will develop a deep knowledge of the accounts they support, their client’s industry/sector as well as their business needs to drive revenue growth for PitchBook.
+
+If you are ready to start the conversation about how you might contribute to all the happenings at PitchBook, submit your resume today! PitchBook appreciates and respects diversity, and as such, we are an equal opportunity employer.
+
+#LI-AK1","PitchBook Data, Inc.",4.3,"Seattle, WA",1001 to 5000 Employees,2007,Company - Public,Venture Capital & Private Equity,Finance,$100 to $500 million (USD),27,43,35.0, WA,14,0,0,0,0,1
+Warehouse Associate II,$27K - $43K (Glassdoor est.),Warehouse Worker,"Performs to standards in multiple functions within the Logistics Center to include: shipping, receiving, and inventory control. Utilizes all types of material handling equipment.
+We are currently hiring for the following shifts:
+5:00am- 1:30pm
+10am- 6:30pm
+11:30am- 8:00pm
+Essential Duties &; Responsibilities Required:
+Performs to standards in multiple functions (i.e. productivity, performance, safety, quality, etc) (20%)",Tech Data Corp,3.7,"Fontana, CA",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD),27,43,35.0, CA,47,0,0,0,0,0
+BIM Content Manager,$27K - $43K (Glassdoor est.),Content Manager,"5+ years of cumulative experience in Industrial or Commercial MEP BIM modeling and drawing production of critical facilities
+5+ Years’ experience using Revit for producing engineering BIM models and drawings
+Ability to carry drawing standards through exploration, development, and into deployment/mass production
+Familiarity with the BIMForum LOD Specifications, plus AIA and NBIMS standards and best practices for BIM collaboration.
+3+ Years’ experience applying continuous Improvement methodologies, practices and concepts to modeling and design work (ex: LEAN, Six Sigma, Kaizen)
+Are you a creative, smart and driven individual that enjoys working with complex problems within a team environment? If this is you, we want YOU on our team!
+
+You will be a part of highly creative and efficient BIM team tasked with tackling the most fascinating and challenging problems in designing, building, and operating Amazon owned Data Center facilities globally. You will be responsible for working with the organization’s leadership to implement full building life cycle BIM strategy for our design, construction, and operations processes by helping to develop and implement our Innovation and Strategic road-map.
+
+Amazon’s Data Centers are industry leading examples of innovation in the areas of space utilization, energy efficiency, and cost effectiveness. We are known for our speed to market and reliability. We are the global team responsible for the design and operation of critical industry leading Data Center facilities located throughout the world. Our Design Team is on the forefront of creating and delivering the most innovative products to our customers; and are known for being a diverse and upbeat team that is changing the face of Cloud Computing. We continue to grow and are looking for individuals that can support our speed to market, enjoy a challenge, and have a desire for professional growth and continuous learning. Amazon’s work environment is unique in every aspect and offers an exceptional opportunity for the right candidate. At Amazon we do highly support continued learning opportunities and focus on continued employee development.
+
+Responsibilities
+
+Daily responsibilities will include working on all aspects of the entire Data Center life cycle starting with design, construction, and maintenance of Data Center Revit models for the Americas Region. You must be able to work within a team and depend on others to accomplish the required work. This includes working with internal groups as well as external suppliers and consultants including utilities, manufacturers, vendors, and contractors. Your duties will include:
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.","Amazon Data Services, Inc.",3.8,"San Francisco, CA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),27,43,35.0, CA,27,0,0,0,0,0
+Partner Marketing Manager,$27K - $43K (Glassdoor est.),Marketing Manager,"Starburst is on a mission to modernize data access & analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we dont plan on slowing down.
+
+We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately cant help business analysts run fast analytics on all their data. This prevents the business from making better decisions to improve their companys performance.
+
+Starburst provides a modern solution that addresses these data silo & speed of access problems. Starburst helps enterprises harness the value of open source Trino, the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.",Starburst Data,4.8,United States,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,27,43,35.0,United States,4,0,0,0,0,0
+Oracle Consultant,$27K - $43K (Glassdoor est.),Oracle Consultant,"Seeking interested candidates with Oracle preferably on a HP Platform with 4-5 years experience. 2 year project in the Northern Virginia area.
+Benefits:
+
+Health Insurance
+Dental Insurance
+Life and Disability Insurance
+Paid Vacations, Sick Leave and Holidays.",Supra Data Systems,5.0,"Oak Hill, VA",1 to 50 Employees,-1,Company - Private,-1,-1,$1 to $5 million (USD),27,43,35.0, VA,-1,0,0,0,0,0
+Manufacturing Process Engineer,$27K - $43K (Glassdoor est.),Process Engineer,"Manufacturing Process Engineer
+
+Primary/Essential Duties:
+1. Design: Assist with new product development and provide support for the timely fabrication of new products.
+2. Leadership: Provide technical direction to Technicians and Interns. Research new technology and assist in bringing new technical capability to DDC’s Manufacturing or Outsource Partners.
+3. Optimize: Assist the design team in developing creative approaches that favorably optimize design trade offs for various elements of a design such as product cost, performance, feature set, time to market, and technical risk.
+4. Production Support: Provide day-to-day Process Engineering support to all areas of the company (Engineering, Product Development, Procurement, Manufacturing and Product Assurance). This includes daily oversight of production processes with a focus towards improving Productivity either through process enhancements or automation. Seek out bottle necks in the process flow with goal of a balance manufacturing process. Take a proactive approach to trouble shooting, and provide timely resolution of production issues in an effort to support the on-time and cost efficient shipment of quality products. This may also include assisting in the evaluation and disposition of discrepant materials at Incoming Inspection and Manufacturing.
+5. Planning: Develop plans, schedules, and identify resources required to develop and introduce new processes in a timely fashion.
+6. Innovation: Research and Conceive methods for achieving product requirements and specifications using appropriate design, process, manufacturing and mechanical techniques.",Data Device Corporation,2.5,"Bohemia, NY",201 to 500 Employees,1964,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),27,43,35.0, NY,57,0,0,0,0,0
+Lead Application Engineer,$27K - $43K (Glassdoor est.),Applications Engineer,"Req ID: 99911
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Lead Application Engineer to join our team in Chicago, Illinois (US-IL), United States (US).
+
+Responsibilities and duties:
+Lead the application and database support team by providing them guidance and support to critical technical aspects
+Analyze client IT application environment and suggest improvement opportunities, upgrades and migration requirements
+
+
+
+
+
+
+
+
+
+:
+
+INDPUBLIC
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Chicago
+
+
+Consulting, Developer, Database, Technology",NTT DATA Corporation,3.7,"Chicago, IL",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),27,43,35.0, IL,54,0,0,0,0,0
+Data Scientist/Data Science Instructor,$27K - $43K (Glassdoor est.),Data Scientist,"About Us
+Just as the field of Data Science is growing and ever-changing, so is our team: we’re on the hunt for talented instructors who are passionate about what they do and want to make a difference in the education of the world’s up-and-coming data scientists — our students.
+The NYC Data Science Academy prides itself on housing the most comprehensive 12-week intensive boot camp in data science methodologies, providing theoretical, practical, and hands-on knowledge to our scholars. We nurture top talents in the industrial & academic world into industry-ready data scientists, by equipping them with knowledge, technical skills, and insights aiming at maximal impacts to the business world. We adapt faster than the quickest machine learning algorithms out there — with content that reflects research and application in the growing industry and teaching expertise which goes beyond extraordinary.",NYC Data Science Academy,4.4,"New York, NY",1 to 50 Employees,2014,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,27,43,35.0, NY,7,0,0,0,0,0
+UX Designer - Product Strategy,$27K - $43K (Glassdoor est.),Ux Designer,"Description:
+VertexOne is seeking a versatile Designer to join our Product team and assist with UI / UX design across our SaaS platform, including our consumer-facing Utility Portal (B2C) products, Utility Analytics Dashboard (B2B), and our Customer Information System (B2B) products.
+The ideal candidate is well-versed in user-centered design processes digging into user research, developing a framework for understanding users needs using constructs like personas, and leading the highly-iterative process of building delightful product experiences.
+Essential Job Duties:
+Design elegant, intuitive, responsive and functional user experiences of VertexOne SaaS products from conception through launch as well as additional ongoing iterations.
+Translate concepts into user flows, wireframes, mockups, and prototypes that lead to intuitive user experiences.
+. Requirements:",Vertex Data L.P.,4.2,Remote,201 to 500 Employees,1996,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),27,43,35.0,Remote,25,0,0,0,0,0
+C# .NET DEVELOPER,$27K - $43K (Glassdoor est.),Web Developer,"This is an exceptional opportunity for a C# .NET Web Developer to play a pivotal role in front end/middle tier architecture and programming to support the company’s web-based applications. This is a great position for the self-motivated, organized candidate who has rigorous attention to detail. The company is looking for people who are creative problem solvers and “out-of-the-box” thinkers. The ideal candidate is one that can thrive in a fast-moving, creative company and who appreciates a casual and collaborative environment.
+Responsibilities:
+Work with other developers to develop and build systems on the .NET platform using cutting-edge techniques, tools and utilities
+Research, test and implement new technologies, frameworks and utilities
+Help enforce development standards and best practices",Vital Data Technology,3.7,"Newport Beach, CA",1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),27,43,35.0, CA,-1,0,0,0,0,0
+Medical Collections Representative,$27K - $43K (Glassdoor est.),Collector,"MEDICAL COLLECTIONS REPRESENTIVE - $$$ $1,000 Sign On Bonus $$$
+Medical Data Systems, a leader in the Revenue Cycle Management and the Accounts Receivable Industry, is aggressively hiring full-time Medical Collection Representatives that can proficiently multitask in a fast-paced environment. We are seeking people who can help patients figure out a way to resolve past due balances in a professional manner. We help people eliminate debt.
+Hourly base pay, PAID TRAINING, and Unlimited BONUS potential.
+Our representatives average $14-$20 an hour year one; $20-$30 an hour year two; and $40-$50 an hour for our ELITE performers. We are vigorously committed to your success.
+This is not a pipe dream, ask our representatives!","Medical Data Systems, Inc (MDS)",2.3,"Sebring, FL",501 to 1000 Employees,1985,Company - Private,Consulting,Business Services,$25 to $50 million (USD),27,43,35.0, FL,36,0,0,0,0,0
+System Engineer - Infrastructure,$27K - $43K (Glassdoor est.),Systems Engineer,"4+ years’ experience administrating in a Linux environment
+3+ years’ experience of systems management (e.g. 50+ servers)
+3+ years’ experience of building scripts, tooling, and automation for large-scale computing environments using Python, Java, PHP, Ruby, or Bash/Shell.
+Bachelor's Degree in an IT related field, or equivalency in related work experience
+Current, active US Government Security Clearance of Top Secret or above
+Amazon is building some of the largest distributed systems in the world, and we need astute people to support and engineer the next generation of compute and storage platforms for our customer. Amazon’s ISO (Infrastructure, Services and Operations) group provides support worldwide with a focus on continuous improvement. We have exceptionally high standards for our infrastructure as well as our employees, and our systems are highly reliable, highly available, and turn scale into an advantage for our business and an asset to our customers. Our employees are exceptional, driven to serve customers, and fun to work with.
+
+The AWS ISO (Infrastructure, Services and Operations) team is looking for experienced engineers who are willing to own solutions, insist on the highest standards for our customers and can both think of the big picture but dive deep into solutions when the situation warrants. The skills and traits we are seeking include:
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, visit https://www.amazon.jobs/en/disability/us.
+
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
+
+This position can sit in Denver CO, Herndon VA, or Seattle WA.
+
+The pay range for this position in Colorado is $68,200 - $119,400/yr; however, base pay offered may vary depending on job-related knowledge, skills, and experience. A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided per the Colorado Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon’s internal or external careers site.","Amazon Data Services, Inc.",3.8,"Denver, CO",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),27,43,35.0, CO,27,1,0,1,0,0
+"Specialist, Regulatory Relations",$27K - $43K (Glassdoor est.),Public Affairs Specialist,"It's fun to work in a company where people truly BELIEVE in what they're doing !
+Job Summary
+Alliance Data is focused on cultivating a strong, unified culture that embraces a sense of personal accountability for developing the highest standards in governance and controls across the company.
+
+The Specialist, Regulatory Relations provides critical support to the Regulatory Relations program through coordination of regulatory activities across Comenity Bank, Comenity Capital Bank, and Comenity LLC. This role supports regulatory examinations, regulatory requests, regulatory findings management, as well as the development and execution of reporting for senior management, committees and the Board of Directors.
+
+
+Bachelor’s Degree
+Five or more years
+Accounting, Bank Regulations, Financial Audit, Organizational Management (OM), Regulatory Examinations, Regulatory Requirements, Risk Management
+Enterprise Risk
+
+
+Regular",Alliance Data,3.3,"Draper, UT",10000+ Employees,1996,Company - Public,Advertising & Marketing,Business Services,$5 to $10 billion (USD),27,43,35.0, UT,25,0,0,0,0,0
+Data Engineer Intern,$27K - $43K (Glassdoor est.),Data Engineer,"Seattle Data Guy is a data engineering and data science consulting firm that works with customers in multiple industries. We provide end-to-end data solutions. This means we help take companies' raw data and process it into data warehouses that can then be used to support dashboards, analytics, machine learning models, and more.
+*
+In addition, our team is also committed to teaching the data science and data engineering communities through content creation.
+*
+*
+Responsibilities
+Build & maintain data pipelines using Apache Airflow, Python, and other ETL tools",Seattle Data Guy,-1.0,Remote,-1,-1,-1,-1,-1,-1,27,43,35.0,Remote,-1,1,0,0,0,0
+Programmer Analyst,$27K - $43K (Glassdoor est.),Programmer Analyst,"Responsible to work closely with end-users and internal stakeholders including development, dba, and quality assurance teams to provide business solutions in response to user request; understand and reconcile user requirements, process models and data; Gather necessary information required for the development; Perform gap analyses, risk analysis for the impact on the overall project; Perform Data Masking project meant for securing the production data that includes ER diagram designing, data integrity and re-designing the table schemas; Meet the end-users to assess business requirements, match these requirements to objectives and guide them to the applicable processes; Understand the project direction and structure in order to execute the project objectives in support of business needs and manage changes; Write business documents, functional requirements, user stories, improvement and change requests with data elements mapping and UML-wireframes in Agile methodologies; Track the development of the requirement and ensuring timely delivery with minimal impact to production operations; Tools and Technologies to be utilized: Waterfall, Agile Scrum, RUP, MS Project, MS Visio, MS-Office Suites, Jira, Confluence, Share Point, Rally. Travels to various unanticipated client locations within United States. Must have bachelors in Computers/ Electronics /Electrical/ Business/ Related + 1 Yr. exp.
+
+as Programmer Analyst/ System Analyst/ Business Analyst/ Related. Respond to HR Manager, PA/AW/19-1, Global Data Management, Inc., 90 Woodbridge Center Dr., Suite # 380, Woodbridge, NJ 07095.",Global Data Management Inc.,4.4,"Woodbridge, NJ",51 to 200 Employees,2008,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),27,43,35.0, NJ,13,0,0,0,0,0
+Marketing Research Strategist,$27K - $43K (Glassdoor est.),Market Researcher,"It's fun to work in a company where people truly BELIEVE in what they're doing !
+Job Summary
+The Marketing Strategy group is responsible for the development of programs that allow brands and ADS to reward customer behavior through the development of Loyalty and Value Proposition programs. This includes customer research, thought leadership, and project management with our brand and internal partners from inception to completion of each program.
+
+
+Bachelor’s Degree (Required)
+Six or more years
+Marketing
+
+
+Regular",Alliance Data,3.3,"Columbus, OH",10000+ Employees,1996,Company - Public,Advertising & Marketing,Business Services,$5 to $10 billion (USD),27,43,35.0, OH,25,0,0,0,0,0
+"Vice President, Finance",$27K - $43K (Glassdoor est.),Finance Manager,"About Vantage Data Centers
+
+Vantage is committed to being a workplace of inclusion, equality, respect and acceptance. We celebrate diversity and intentionally seek out opportunities to learn from one another’s experience.
+
+Vantage Data Centers powers, cools, protects, and connects the technology of the world’s well-known hyperscalers, cloud providers and large enterprises. Developing and operating across six markets in North America and six markets in Europe, Vantage has evolved data center design in innovative ways to deliver dramatic gains in reliability, efficiency and sustainability in flexible environments that can scale as quickly as the market demands. Vantage’s business is growing exponentially, through a combination of greenfield market expansion and acquisitions across North America and Europe.
+
+
+
+The Finance & Accounting team consists of senior executives starting with our CFO and includes senior members such as the Chief Administrative Officer; Chief Financial Officer – Europe; SVP, General Counsel; SVP, Treasurer; and SVP, Global Human Resources. The VP, Finance will work as an integral part of this highly talented and well-functioning team that is responsible for the overall success of Vantage’s financial management and administration. The Finance & Accounting team meets on a regular basis and determines how to best manage the business.
+
+
+
+The VP, Finance is a new role at Vantage that is critical to our continued success and scaling as the company continues to expand. Vantage is looking for a senior, hands-on VP to cross-functionally manage and coordinate teammates across Financial Planning & Analysis, Construction Cost Finance and Investor Relations. In addition to working directly for the CFO and with the Vantage executive team, this individual will be responsible for managing the financial reporting, assessment and budget process to be presented to the Company’s executives, board of directors and investors. This position will also develop and manage KPIs for delivery to investors as well as being the point of contact for investor inquiries. This person should be comfortable working with executives and ensure that key initiatives are kept visible and tracked for progress.
+
+We operate with No Ego and No Arrogance. We work to build each other up and support one another, appreciating each other’s strengths and respecting each other’s weaknesses. We find joy in our work and each other, actively seeking opportunities to inject fun into what we do. Our hard and efficient work is rewarded with an above market total compensation package. We offer a comprehensive suite of health and welfare, retirement, and paid leave benefits exceeding local expectations.
+
+Safety and security always matter. During COVID, all positions that can work remotely have been, and appropriate steps have been taken to ensure the safety of employees in any position essential to be on site. Regardless of where you are working, technology to work effectively is provided on or in advance of your first day of employment.
+
+Throughout the year, the advantage of being part of the Vantage team is evident with an array of benefits, recognition, training and development, and the knowledge that your contribution adds value to the company and our community.
+
+Don't meet all the requirements? Please still apply if you think you are the right person for the position. We are always keen to speak to people who connect with our mission and values.",Vantage Data Centers,4.3,"Denver, CO",201 to 500 Employees,2010,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,27,43,35.0, CO,11,0,0,0,0,0
+Business Intelligence Consultant,$27K - $43K (Glassdoor est.),Bi Analyst,"Job Position: Business Intelligence Consultant
+Job Location: Dallas, Texas
+Required Education: Graduate Degree in Supply Chain Management or Related Field
+Job Type: Full Time, Employee
+WCI Consulting, Inc. is currently looking for a qualified Business Intelligence Consultant to join our team in Dallas. Candidacy qualifications include:
+2+ years implementing Business Intelligence reporting solutions (SAP BusinessObjects, Microstrategy, Cognos, etc.) OR 2+ years in ETL development (SAP Data Services or Informatica) a plus
+Understanding relational data modeling a plus
+SQL skills required",WCI Data Solutions,-1.0,"Dallas, TX",-1,-1,-1,-1,-1,-1,27,43,35.0, TX,-1,0,0,0,0,0
+UI-UX Developer,$27K - $43K (Glassdoor est.),Front End Engineer,"Req ID: 113832
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a UI-UX Developer to join our team in Charlotte, North Carolina (US-NC), United States (US).
+
+Project Deliverables:
+
+This role is for a talented Web UI visual designer and web developer, who is passionate about building dynamic user interfaces and experiences that are engaging, functional and fun. The right candidate will be part of a collaborative team creating new UI business solution ideations and interactive visual concepts, as well as production-ready high-fidelity web prototypes for various existing client projects.
+
+#INDFSINS
+#L1-NAM
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.",NTT DATA Services,3.5,"Charlotte, NC",201 to 500 Employees,-1,Company - Private,Accounting,Accounting & Legal,Unknown / Non-Applicable,27,43,35.0, NC,-1,0,0,0,0,0
+Loan IQ Data Architect / Engineer,$27K - $43K (Glassdoor est.),Database Architect,"Req ID: 113106
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Loan IQ Data Architect / Engineer to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Loan IQ Data Architect will be responsible for optimizing current domain capabilities, developing the roadmap for the strategic evolution of the product & maximizing value for operations & market partners. They will combine years of proven expertise to create innovative technology through solid engineering practices. With deep knowledge of design, analytics, development, coding, testing and application programming, the Loan IQ Data Architect will satisfy both business and functional requirements. The Loan IQ Data Architect will encompass loan origination process and fixed income products like treasury (bonds, notes, and bill), mortgaged backed securities (MBS), municipal bonds, corporate bonds, junk bonds and convertible bonds. Will ensure completeness, correctness and consistency of data and data structure identifying, tracking, and resolving basic queries. The Loan IQ Data Architect will be hired into this role with a good understanding of SDLC process and will be involved in end to end implementations of DWH and reporting solutions using Tableau, SSRS, OBIEE, Informatica, SSIS and Data Stage.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Database, Consulting, Developer, Management Consulting, SQL, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),27,43,35.0, GA,54,0,0,0,0,0
+Experienced Data Architect - Loan IQ,$27K - $43K (Glassdoor est.),Database Architect,"Req ID: 113106
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Loan IQ Data Architect / Engineer to join our team in Dallas, Texas (US-TX), United States (US).
+
+The Loan IQ Data Architect will be responsible for optimizing current domain capabilities, developing the roadmap for the strategic evolution of the product & maximizing value for operations & market partners. They will combine years of proven expertise to create innovative technology through solid engineering practices. With deep knowledge of design, analytics, development, coding, testing and application programming, the Loan IQ Data Architect will satisfy both business and functional requirements. The Loan IQ Data Architect will encompass loan origination process and fixed income products like treasury (bonds, notes, and bill), mortgaged backed securities (MBS), municipal bonds, corporate bonds, junk bonds and convertible bonds. Will ensure completeness, correctness and consistency of data and data structure identifying, tracking, and resolving basic queries. The Loan IQ Data Architect will be hired into this role with a good understanding of SDLC process and will be involved in end to end implementations of DWH and reporting solutions using Tableau, SSRS, OBIEE, Informatica, SSIS and Data Stage.
+
+Basic Qualifications:
+
+
+
+
+
+
+Preferences:
+
+
+#LI-NAM
+
+#BConsult
+
+
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+
+
+Dallas
+
+Fort Worth
+
+
+Database, Consulting, Developer, Management Consulting, SQL, Technology, Management",NTT DATA Corporation,3.7,"Atlanta, GA",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),27,43,35.0, GA,54,0,0,0,0,0
+Programmer/Analyst,$27K - $43K (Glassdoor est.),Programmer Analyst,"You didn’t get in to this field to do the same types of tasks over and over; that’s boring. Consider consulting, where everything changes – the business domain, the technology, the team, the users, the client – everything. Constant change means constant challenge and opportunity. Sound exciting? It isn’t for everyone, but if you thrive in this type of environment, you belong at Resource Data.
+Ideally, you’ll have a couple years’ experience in .Net programming, databases, and web applications; but, we’re more interested in your accomplishments than your current skills. To show you what we mean, look at your first year here.
+To get started, you’ll get familiar with us by working on our internal business systems. This will give you a chance to get to know the business users, other developers, and team leads. You’ll get familiar with our internal development process and tools.",Resource Data,4.3,"Boise, ID",201 to 500 Employees,1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),27,43,35.0, ID,35,0,0,0,0,0
+Warehouse Specialist,$27K - $43K (Glassdoor est.),Warehouse Worker,"Req ID: 111595
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+We are currently seeking a Warehouse Specialist to join our team in Chicago, Illinois (US-IL), United States (US).
+Job Responsibilities Include:
+Implement Asset Management processes for Hardware and software assets within the datacenter and end user space
+End to End Asset Management Life Cycle Experience both in Hardware and software",NTT DATA Services,3.7,"Chicago, IL",10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD),27,43,35.0, IL,54,0,0,0,0,0
+"Product Manager, Massive Analytics & APIs",$27K - $43K (Glassdoor est.),Product Manager,"StreetLight Data, the pioneer in Big Data for mobility, is revolutionizing transportation and urban planning to help the world better deploy infrastructure and adapt to new forms of mobility. From legacy systems to ride sharing and bike sharing to autonomous vehicles, our platform powers 6,000+ mobility projects every month for government and private clients, and we're just getting started.
+
+StreetLight Data is seeking a Product Manager to work with our data science, data engineering and web applications teams in two areas: massive analytics offerings and application programming interfaces for StreetLight’s best-in-class transportation data platform. A new product line, Massive Analytics refers to analyses run over large geographic regions using predefined geometries for various transportation metrics that provide measures of large scale transportation and related patterns such as Vehicle Miles Traveled (VMT) or Origin - Destination volumes. Reporting initially to the VP of Product, you will collaborate with our other product managers, engineering, marketing and sales to research, define, plan, build, release and drive successful sales and adoption of both new and existing data products for large geographies and the APIs for Streetlight InSight®, our end-user application as well as new APIs that will enable partners and customers to integrate StreetLight analytics into their own applications.",StreetLight Data,4.9,"San Francisco, CA",51 to 200 Employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),27,43,35.0, CA,10,0,0,0,0,0
+Business Intelligence Programmer/Analyst,$27K - $43K (Glassdoor est.),Programmer Analyst,"Job Summary:
+The Business Intelligence software developer will work with a team to promote the expansion of a global data warehouse and enterprise business intelligence tools. Developing enterprise business intelligence solutions (e.g. Dashboards, reports etc.) in support of EDW and other data customers. Developing or enhancing best practices approaches for business intelligence solutions.
+Training and guiding internal customers of the data warehouse and other data sources to maximize their self-empowerment and self-sufficiency in using business intelligence tools to query, report on and analyze their data. Debug application or data content related issues. Developing new, or converting existing legacy systems into business intelligence applications fully leveraging new corporate business intelligence tools and deploying best in class solutions.
+
+Experience Required:
+3+ years experience with Business Objects (creation)
+2+ years additional experience in other BI tools or prior BOBJ versions
+1 year of experience with latest BOBJ product release or BOBJ XI R2
+Development experience with Business Objects Xcelsius highly desirable
+Strong SQL skills essential. Oracle PL/SQL skills highly desirable
+Good presentation skills, experience with training users on BI tools &
+solutions a strong plus
+Java and Java Scripting (JSP) and fluid with Unix environments highly desirable.
+Strong business and technical analysis skills
+Experience with data mart/warehouses and dimensional data models required
+Effective verbal and written communication skills
+Rapidly absorb complex business questions and translate these into clear technical requirements, building these into effective BI solutions
+
+
+Bachelors Degree in a technology related discipline",CRC DATA,5.0,"New York, NY",1 to 50 Employees,1992,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),27,43,35.0, NY,29,0,0,0,0,0
+Project Manager/Sr. Analyst,$41K - $108K (Glassdoor est.),Project Manager,"More than ever, businesses need to do more with less. Our goal is to help them so they may prosper despite uncertainty. Our project managers are key to realizing that goal.
+Project management at Resource Data isn’t about checking boxes. Project managers have a unique perspective. They know the places a team can bend, adjust, and be creative to achieve success. Our project managers bring their technical expertise and analytical mindset to each engagement, working with the client and the development team to deliver the best solution. Results drive our success.
+We expect that there will be continued tough economic times here in Alaska, but there will also be opportunities. As a consulting firm, we want to be ready for the opportunities. If you’re interested in a career as a consultant and project manager, we’d like to start the conversation now.",Resource Data,4.3,"Portland, OR",201 to 500 Employees,1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),41,108,74.5, OR,35,0,0,0,0,0
+Youth Connections Coach,$41K - $108K (Glassdoor est.),Coach,"Youth Connections Coach
+Job Tracking ID : 512181-760799
+Job Level : Mid Career (2+ years)
+Level of Education : BA/BS
+Job Type : Full-Time/Regular
+Date Updated : 02/25/2021
+Salary : $36,000 year
+Job Description","Educational Data Systems, Inc.",4.3,"Livonia, MI",501 to 1000 Employees,1979,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,41,108,74.5, MI,42,0,0,0,0,0
+Marketing Partner,$41K - $108K (Glassdoor est.),Marketing Manager,"We are excited to be adding a new member to our team! As part of the marketing technology team supporting our websites and web presence you will support marketers with content entry and use of the content management system. You will work with stakeholders to define requirements, understand use cases and help to direct developers to create and enhance existing design and functionality. You will also serve as an administrator for the content management system.
+
+Your responsibilities will include understanding, implementing and training on web best practices, supporting SEO and web analytics efforts, collaborating with other marketing technologists to ensure the content management system integrates across the technology stack, and supporting additional technology projects and team members as a web subject matter expert. You will also help to troubleshoot website errors, page issues and identify or leverage new capabilities with the content management system or other web technologies.
+
+
+
+Seniority Level
+
+Mid-Senior level
+
+Industry
+Employment Type
+
+Full-time
+
+Job Functions",Data Bridge Consultants,4.0,Remote,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),41,108,74.5,Remote,-1,0,0,0,0,0
+Marketing Manager,$41K - $108K (Glassdoor est.),Marketing Manager,"About Us
+Investor’s Business Daily (IBD) is the leader in stock research and education. For over 30 years, IBD has helped countless investors around the world make more money in the market and reach their financial goals. Founded by legendary investor William J. O’Neil with the goal of democratizing stock investing, IBD provides our customers access to the same type of research Wall Street uses to make big profits. All of our products and content are based on the CAN SLIM® Investing System, which uses historical precedent to identify leading stocks before their big price increases. IBD helps our customers succeed in the market with our unparalleled stock research and education. Our customers have access to IBD’s proprietary research, including market-beating stock lists, exclusive stock ratings and powerful investing tools that help them make more profitable trading decisions. In addition, IBD provides customers with world-class investing education that includes complimentary coaching, interactive webinars, videos, IBD University, live workshops and more. IBD reaches investors around the world via our flagship website, Investors.com, our suite of digital products (IBD Digital, MarketSmith, Leaderboard and SwingTrader), mobile apps, a weekly print edition, social media and more. IBD is headquartered in Los Angeles, California.",Data Analysis Inc.,4.2,California,1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD),41,108,74.5,California,-1,0,0,0,0,0
+Market Research Manager,$41K - $108K (Glassdoor est.),Market Researcher,"Overview:
+Come join IDC, the most respected global technology market research firm, recognized by the Institute of Industry Analyst Relations (IIAR) as the 2020 Analyst Firm of the Year for delivering critical, timely insights in coordinated efforts around the world, during a time when our customers faced unprecedented challenges. We are changing the way the world thinks about the impact of technology on business and society. Our people, data, and analytics create global technology insights that accelerate customer success.
+
+IDC's Customer Insights and Analysis group is looking for an experienced Market Research Manager for its Worldwide Artificial Intelligence Spending Guide, a quantitative research program. The primary objective of this role is to plan, facilitate, and manage the research around the AI systems market opportunity by country, industry, and use case. The research includes building quantitative models that synthesize economic, firmographic, and primary and secondary research data to size, forecast and segment the market by various parameters. The position requires handling, manipulating, and integrating vast amounts of data from different data sources to create compelling deliverables and actionable insights for major technology vendors, investors, and government clients around the world.
+
+Responsibilities:
+Qualifications:","International Data Group, Inc.",3.3,"Needham, MA",10000+ Employees,1964,Company - Private,Publishing,Media,$2 to $5 billion (USD),41,108,74.5, MA,57,0,0,0,0,0
+,$41K - $108K (Glassdoor est.),Customer Service Representative,"Claims Processor/Customer Service Representative
+Central Data Services, Inc. is the largest locally-owned and operated employee benefit services firm in the greater Pittsburgh area. We are seeking candidates interested in working in a fast-paced environment specializing in benefit administration and customer service to fill a Full-Time position in our South Side office.
+Duties and Responsibilities","Central Data Services, Inc",-1.0,"Pittsburgh, PA",-1,-1,-1,-1,-1,-1,41,108,74.5, PA,-1,0,0,0,0,0
+Renewable Optimization Data Scientist,$41K - $108K (Glassdoor est.),Data Scientist,"Master’s degrees in Computer Science, Engineering, Statistics, Applied Mathematics, Physics, Economics or a related quantitative field
+2+ years of hands-on experience with statistical analysis, machine learning, predictive modeling, optimization, or data mining
+1+ year of experience using Java, C#, C++, Python, R, Perl, or other programming languages
+2 years of experience with data querying languages such as SQL, Hadoop or equivalent
+Amazon Web Services (AWS) Renewable Energy Team is looking for Data Scientist to develop new solutions and analytics towards delivering 100% renewable energy to our global infrastructure. You will utilize innovative data science, machine-learning, and distributed software on the Cloud to build systems that automate and optimize delivery of our renewable energy to our load under the uncertainty of demand, pricing and supply.
+
+The ideal candidates will have a deep knowledge of quantitative modelling in at least one area (ML, optimization, multivariate statistics), the ability to build and refine prototype models that can be implemented in production, the communication skills necessary to explain complex technical approaches to a variety of stakeholders and customers, and the excitement to take iterative approaches to tackle big, long-term problems.
+
+This is an exciting new role is part of a program focused on optimizing our renewable assets across the globe. You will work closely with the energy team on large-scale renewable projects and help AWS achieve its 100% renewable energy goals.
+
+Amazon is a committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.","Amazon Data Services, Inc.",3.8,"Seattle, WA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),41,108,74.5, WA,27,1,0,1,0,0
+Software Development Engineer - Test - Firmware Tools and Automation,$41K - $108K (Glassdoor est.),Software Engineer In Test,"Bachelor's degree or higher in Computer Science, Computer Engineering, Electrical Engineering or a related field, or equivalent experience
+5+ years of experience in software development as an engineer.
+3+ years of experience with development and execution of test frameworks using a high-level language (C, C++, Java) and a scripting language (Python, shell)
+3+ years of experience with software validation for embedded platforms
+The AWS Firmware team drives system innovation in the servers used by all of Amazon Web Services, including EC2, S3, CloudFront, etc. Our engineers solve the hardest problems that fuse software, hardware, and the cloud. We take big bets on new concepts, enabling AWS services to continue to revolutionize the industry. We are looking for a seasoned Senior Software Development engineer to build firmware management systems, test frameworks and productivity tools. As a development engineer in this team, you will work with a team of world-class software developers who thrive on creating innovative, scalable solutions for real-world data center infrastructure problems. You will be part of larger development efforts to build, validate and support firmware in diverse technology domains from embedded software to large-scale distributed software systems, using proprietary and open source technologies.
+The ideal candidate for this role will be an innovative self-starter. You will develop test automation and firmware validation test harnesses for AWS server firmware. You will collaborate with internal and external development engineers (architecture, hardware, validation, software services). You will use your broad experience using and developing automated testing tools, programming languages and knowledge of server components to build and deploy infrastructure to support firmware development. AWS Engineers are shaping the way people use computers and designing the future of cloud computing technology – come help us make history!
+You will be a member of a team designing AWS-specific hardware, firmware and software. You will pioneer the design and development of test infrastructure for a variety of server components. You will build services that enables server component firmware teams to scale to AWS requirements, efficiently and effectively. Firmware development teams will use your frameworks, test and deployment management tools and methodology to develop content to meet their needs. You will design firmware developer workflows, tools and methodology to improve developer velocity and code health. You will work closely with AWS software and firmware engineers to automate health reporting of testing tools, test infrastructure and productivity tools that support firmware development.
+Public cloud IT services represent the majority of growth in the overall IT services market and will continue to do so for several years to come. The scale of AWS, combined with an understanding of how our hardware is used, creates a unique opportunity for component customization that will directly benefit our customers.
+You will work with engineers across the company to build firmware for next-generation platform. You will have a direct impact on our bottom line and the ability to deliver improvements for our developers. You will be part of a growing, fast paced, and fun team. You will have ownership for the implementation of your work. You will see direct increase in customer satisfaction via improved firmware development velocity, firmware quality and efficiency of firmware delivery based on the results of your work.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.","Amazon Data Services, Inc.",3.8,"Cupertino, CA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),41,108,74.5, CA,27,1,0,1,0,0
+"Director, Marketing and Marketing Operations",$41K - $108K (Glassdoor est.),Marketing Manager,"General Summary:
+The Dir. of Marketing & Marketing Ops position is responsible for developing and tactically implementing marketing initiatives to acquire and retain customers, while maximizing customer loyalty, brand equity, revenue growth, and profitability. This position has a special focus on performance measurement, technology integrations, lead generation strategies, and optimization. The role is both strategic and tactical, which requires an individual who can strategize at a high level as well as get into the weeds in the day-to-day work supporting both our Marketing and Business Development teams. This includes planning, analysis and ongoing refinement of marketing strategies, program implementation, and performance measurement.
+The ideal candidate will thrive in a culture of ownership, delivery, and innovation where they can realize their vision about new marketing strategies, processes, and measurement that achieve business goals. The Director of Marketing and Marketing Ops is an expert in creating agile marketing processes, managing and optimizing various marketing platforms, and developing effective workflows that facilitate lead generation. From identifying key strategic opportunities to expand Data Axles market and revenue, to spearheading the development of useful toolkits that streamline marketing processes and performance measurement, this person will drive the long-term success for the marketing team.",Data Axle,3.5,Remote,1001 to 5000 Employees,1972,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$100 to $500 million (USD),41,108,74.5,Remote,49,0,0,0,0,0
