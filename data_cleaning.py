@@ -22,11 +22,11 @@ df['max_salary'] = minus_kd.apply(lambda x: int(x.split('-')[1]))
 df['avg_salary'] = (df['min_salary'] + df['max_salary']) / 2
 
 # State field
-df['job_state'] = df.Location.apply(lambda x: x.split(',')[1])
+df['job_state'] = df.Location.apply(lambda x: x.split(',')[1] if ',' in x else x)
 df.job_state.value_counts()
 
 # Age of company
-df['company_age'] = df.Founded.apply(lambda x: 2021 - x)
+df['company_age'] = df.Founded.apply(lambda x: x if x < 0 else 2021 - x)
 
 # Parsing job description
 
@@ -35,7 +35,7 @@ df['python_jd'] = df['Job Description'].apply(lambda x: 1 if 'python' in x.lower
 df['python_jd'].value_counts()
 
 # r studio
-df['r'] = df['Job Description'].apply(lambda x: 1 if 'r studio' in x.lower() else 0)
+df['r'] = df['Job Description'].apply(lambda x: 1 if 'r-studio' in x.lower() else 0)
 df['r'].value_counts()
 
 #aws
