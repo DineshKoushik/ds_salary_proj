@@ -8,12 +8,12 @@
 * Built a client facing API using flask.
 
 ## Code and Resources Used 
-**Python Version:** 3.8
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium    
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
-**Ken Jee:** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+* **Python Version:** 3.8
+* **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
+* **For Web Framework Requirements:**  ```pip install -r requirements.txt```
+* **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium    
+* **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+* **Ken Jee:** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Web Scraping
 scraped over 200 job postings from `glassdoor.com`[Scraper repo is mentioned above].
